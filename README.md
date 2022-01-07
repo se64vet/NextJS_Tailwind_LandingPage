@@ -1,27 +1,67 @@
-# Next.js + Tailwind CSS Example
+# Frontend Mentor - Space tourism website solution
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Preview
+## Table of contents
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-## Deploy your own
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Overview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+### The challenge
 
-## How to use
+Users is able to:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+- View the optimal layout for each of the website's pages depending on their device's screen size
+- See hover states for all interactive elements on the page
+- View each page and be able to toggle between the tabs to see new information
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+### Screenshot
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![](./screenshots/screenshot.png)
+
+
+
+### Links
+
+- Solution URL: [Github](https://github.com/se64vet/NextJS_Tailwind_LandingPage)
+- Live Site URL: [Vercel](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React.js](https://reactjs.org/) 
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/docs/installation) - For styles
+
+- Built-in NextJS API 
+
+### What I learned
+- How to handle Dynamic Render
+- Fetching API and handle fetching after component mounted
+- Handle Error with asynchronous problems
+- React Hooks
+- Window resize and setSize inside React component
+- Set responsive screen in React
+
+
+## Author
+
+- Website - [Dante Mai](https://www.dantemai.com)
+- Frontend Mentor - [@se64vet](https://www.frontendmentor.io/profile/se64vet)
+
