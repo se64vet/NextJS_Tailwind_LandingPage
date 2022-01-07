@@ -1,3 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@media screen and (max-width: 1024px) {
+    :root {
+      font-size: 14px;
+    }
+  }
+
+@media screen and (max-width: 640px) {
+    :root {
+      font-size: 12px;
+    }
+  }
+  
+body{
+    color: white;
+}
+.heading1{
+    font-family: 'Bellefair';
+    font-size: 10rem;
+}
+.heading2{
+    font-family: 'Bellefair';
+    font-size: 6.25rem;
+}
+.heading3{
+    font-family: 'Bellefair';
+    font-size: 3.5rem;
+}
+.heading4{
+    font-family: 'Bellefair';
+    font-size: 2rem;
+}
+.heading5{
+    font-family: 'Barlow Condensed';
+    font-size: 1.75rem;
+    letter-spacing: 4.75px;
+}
+.subHeading1{
+    font-family: 'Bellefair';
+    font-size: 1.75rem;
+}
+.subHeading2{
+    font-family: 'Barlow Condensed';
+    font-size: .875rem;
+    letter-spacing: 2.35px;
+}
+.navText{
+    font-family: 'Barlow Condensed';
+    font-size: 1rem;
+    letter-spacing: 2.7px;
+}
+.bodyText{
+    font-family: "Barlow";
+    font-size: 1rem;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
