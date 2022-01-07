@@ -14,7 +14,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -28,7 +28,7 @@ Users is able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot.png)
+![](/screenshots/Screenshot.png)
 
 
 
