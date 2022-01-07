@@ -35,7 +35,7 @@ Users is able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/se64vet/NextJS_Tailwind_LandingPage)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://next-js-tailwind-landing-page.vercel.app/)
 
 ## My process
 
